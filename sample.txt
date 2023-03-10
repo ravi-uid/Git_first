@@ -1,1 +1,2 @@
 this is my first Git project
+this is second line inside git project
