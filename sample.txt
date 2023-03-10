@@ -1,3 +1,4 @@
 this is my first Git project
 this is second line inside git project
 this is the third line inside git project
+added newly line into git project
